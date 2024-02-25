@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">I Remember My Crypto</string>
+    <string name="price_format">€ %1$.2f</string>
+    <string name="price_change_format">%1$.2f %%</string>
+    <string name="title_activity_portfolio">PortfolioActivity</string>
+    <string name="wallet_preferences">WALLET_PREF</string>
+</resources>
